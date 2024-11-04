@@ -1,9 +1,16 @@
 ## Hi there 👋
+## 🛠️ Tech Stack
+![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+
 
 <!--
 **piyomon1208/piyomon1208** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<img src="https://img.shields.io/badge/aws-#232F3E?style=flat-square&logo=Android&logoColor=white"/>
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
