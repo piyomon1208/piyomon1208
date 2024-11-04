@@ -1,16 +1,16 @@
 🐥piyomon1208/README.md
 
 ## Hi there 👋
-🛠️ Skills
+##🛠️ Skills
 
-## Languages & Platforms/Frameworks
+# Languages & Platforms/Frameworks
 ![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white) 
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=C-Sharp&logoColor=white) 
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white)
 ![Unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white) 
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=Android&logoColor=white)
 
-## Cloud/DevOps
+# Cloud/DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon%20AWS&logoColor=white) 
 ![EKS](https://img.shields.io/badge/EKS-FF9900?style=flat-square&logo=Amazon%20EKS&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=flat-square&logo=Terraform&logoColor=white) 
